@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # Task 4: Setup and Use a Firewall on Kali Linux
 
 ## Objective
@@ -146,17 +142,6 @@ sudo ufw status verbose
 * System restored to default safe state after testing.
 * Demonstrated understanding of basic firewall management and network traffic filtering.
 
-```
-
 ---
 
-This README covers:  
-
-- **All commands you ran**  
-- **Outcomes for each command**  
-- **Safe placeholders for IPs and usernames**  
-- **Restoring firewall to original state**  
-- **Explanation of how firewall works**    
-
----
 
